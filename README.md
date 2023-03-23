@@ -1,10 +1,9 @@
 # github-portfolioAssignment
 ##  biodata  and introduction
 ##  githubpages links
-<a href= https://aasmah.github.io/Bus-tracker/>  real time tracker</a>
-<a href= https://aasmah.github.io/snakeeye-movement/>  eye-Movementr</a>
-<a href= https://aasmah.github.io/pacmen-Factory/> Pacmen exercise</a>
-
+<p><a href= https://aasmah.github.io/Bus-tracker/>  real time tracker</a></p>
+<p><a href= https://aasmah.github.io/snakeeye-movement/>  eye-Movementr</a></p>
+<p><a href= https://aasmah.github.io/pacmen-Factory/> Pacmen exercise</a></p>
 
 #link submission to git hub repos 
 
@@ -12,12 +11,11 @@ html
 css
 js 
 readme
- contacts and links
- linkedin 
- github id
+contacts and links
+linkedin 
+github id
  
  
-  
    ##fork the repository to use to your needs
    
    boostrap theme iportfolio modified. free license included
