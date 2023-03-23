@@ -2,7 +2,7 @@
 ##  biodata  and introduction
 ##  githubpages links
 <p><a href= https://aasmah.github.io/Bus-tracker/>  real time tracker</a></p>
-<p><a href= https://aasmah.github.io/snakeeye-movement/>  eye-Movementr</a></p>
+<p><a href= https://aasmah.github.io/snakeeye-movement/>  eye-Movement</a></p>
 <p><a href= https://aasmah.github.io/pacmen-Factory/> Pacmen exercise</a></p>
 
 #link submission to git hub repos 
