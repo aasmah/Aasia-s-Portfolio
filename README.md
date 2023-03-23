@@ -1,8 +1,13 @@
 # github-portfolioAssignment
 ##  biodata  and introduction
-## collection of githubpages with detailed readme
+##  githubpages links
+<a href= https://aasmah.github.io/Bus-tracker/>  real time tracker</a>
+<a href= https://aasmah.github.io/snakeeye-movement/>  eye-Movementr</a>
+<a href= https://aasmah.github.io/pacmen-Factory/> Pacmen exercise</a>
+
 
 #link submission to git hub repos 
+
 html
 css
 js 
